@@ -1,0 +1,19 @@
+{
+  "name": "nodeDemo",
+  "version": "1.0.0",
+  "description": "Just a demo",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jozefworoniecki"
+  },
+  "author": "me",
+  "license": "ISC"
+}

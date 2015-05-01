@@ -1,0 +1,28 @@
+{
+  "name": "bowerDemo",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Jozefw/projects",
+  "authors": [
+    "jozef"
+  ],
+  "description": "simple demo",
+  "main": "bwertest",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
